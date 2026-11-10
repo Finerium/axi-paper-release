@@ -1,0 +1,17 @@
+P5-E3-H3-H6.md  registration  commit 438bd84  2026-10-04T10:22Z  sha256 b74354bd (as published on 2026-10-04)
+P5-E3-H3-H6.md  amendment A1  commit 1e25bbf  2026-10-06T01:12Z  sha256 c15d00dc21624c571f7753542a4c194fc0f2125352b1f4d2e09a87429564dc7b
+P5-E3-H3-H6.md  amendment A2  commit ed325c1  2026-10-06T01:21:01Z  sha256 72913652cb404d2e8cbf0421a3cf92654f9890d864696877f224b3af68cace91
+P5-E3-H3-H6.md  amendment A3  commit 7776fed  2026-10-06T01:26:35Z  sha256 4f9972f73170193c1e1bce8f16ce9c3c841736d1c7fe4af6b666575269e1e240
+P5-E3-H3-H6.md  amendment A4  commit b69828f  2026-10-06T01:29:38Z  sha256 2c2380f3a52e87993bf33a0cd053e6a2771c3c88ea0846648ed493fd775de108
+P5-E3-H3-H6.md  amendment A5  commit e2bd275  2026-10-06T01:45:29Z  sha256 18d89b00462388bc06979dca6fff44d5baabf2c58d23cf3b4c6ce5f89b24fb1e
+P5-E3-H3-H6.md  amendment A6  commit 6c20b64  2026-10-06T01:56:35Z  sha256 b442033aaaa509cd5960fd4083166968eb5e4f63e2d4d59a9241b18262e852e7
+P5-E3-H3-H6.md  amendment A7  commit 7c71f6f  2026-10-06T02:13:20Z  sha256 148e2156eaf3fed27748be6845bbccd362c1478591f67fa8503e8d7f78390a2a
+P5-E3-H3-H6.md  amendment A8  commit d12c57d  2026-10-06T03:03:51Z  sha256 f843ffee9372e5f4d7e2e0dde492213c8fba97900f7e0c18cb8e1e0643d025d5
+P5-E3-H3-H6.md  amendment A9  commit f55543f  2026-10-06T08:03:55Z  sha256 7346e2100b454e1ac4b0a0844e6f903e5a1b064f3271e1cdeb63e5d58e930929
+P6-HSys.md  registration  commit 90d7f77  2026-10-06T09:29:12Z  sha256 bd3346972a254947bbce484a0a862fd7d96941d411cad0b90101d89324213bdc
+P6-HSys.md  amendment A1  commit cc28033  2026-10-06T12:04:55Z  sha256 da49b33ccba65985a315b74d1c4a7b7574e2899696f10eaa426c0a3c623e435d
+P6-HSys.md  amendment A2  commit 7b9fdc6  2026-10-06T12:44:50Z  sha256 f5161874a056a7d866a6d485c0b981f482e62dc10e6e09a3ca1cdc90cb3ce843
+P7-HFam.md  registration  commit ed2c405  2026-10-06T18:29:05Z  sha256 4ba7368089838cf1c0610c756cb1b7293b92d7e2337db322af622850920a35ff
+P6-HSys.md  amendment A3  commit 04891e7  2026-10-11T07:38:25Z  sha256 06d6648ab2f0e6ff79445f28d1b6b7d95cb95c9a8d54aa2f477862530c09bf58 (published 2026-10-14T12:41Z; the amendment was committed 2026-10-11, the publication was missed and caught by the audit of 2026-10-14)
+P6-HSys.md  amendment A4  commit 49bc0b9  2026-11-04T13:32:47Z  sha256 fa76f5ef30b872af2f8d823e3d7f102fd8917ea60720134e685883b73cbece89  (line published 2026-11-09, after the floor arm's outcome; the commit precedes that arm's first ledger row, 2026-11-04T19:00:17Z)
+P6-HSys.md  public copy of 2026-11-10T06:47:52Z  sha256 ee3d2c8c25d700b4574677eb2f6f71d67c70964111c1233250d98f79c3331c53  (amendment A4 with three phrases left out and marked in the text; the registered bytes of A4 keep fa76f5ef...; the registration and amendments A1 to A3 are byte prefixes of this copy and keep their hashes)

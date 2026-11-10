@@ -1,0 +1,26 @@
+instance_id,repo,outcome,test_exit_code,diagnosis
+fastapi_14186,fastapi/fastapi,reference fix fails,0,not diagnosed per task (tests fail or a required test node does not pass with the reference fix)
+fastapi_14356,fastapi/fastapi,reference fix fails,1,not diagnosed per task (tests fail or a required test node does not pass with the reference fix)
+fastapi_15745,fastapi/fastapi,reference fix fails,1,not diagnosed per task (tests fail or a required test node does not pass with the reference fix)
+fastapi_15763,fastapi/fastapi,reference fix fails,1,not diagnosed per task (tests fail or a required test node does not pass with the reference fix)
+fastapi_15785,fastapi/fastapi,reference fix fails,1,not diagnosed per task (tests fail or a required test node does not pass with the reference fix)
+httpx_3672,encode/httpx,reference fix fails,2,test collection error in the sandbox
+requests_6589,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_6592,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_6629,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_6757,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7205,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7309,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7315,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7328,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7427,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7433,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7502,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+requests_7505,psf/requests,reference fix fails,1,"the repository's test server (pytest-httpbin) has compiled dependencies the sandbox lacks, so the conftest fixture fails; requests_7205 also reads a .netrc in the kernel's home"
+rich_3064,Textualize/rich,reference fix fails,1,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+rich_3130,Textualize/rich,reference fix fails,1,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+rich_3296,Textualize/rich,reference fix fails,1,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+rich_3469,Textualize/rich,reference fix fails,1,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+rich_3486,Textualize/rich,reference fix fails,0,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+rich_3782,Textualize/rich,reference fix fails,1,rendering tests pinned to the snapshot's Pygments; the harness injects Pygments 2.21.0 (rich_3782: environment detection sees IPython after the dependency repair)
+fastapi_14851,fastapi/fastapi,reference fix passes; empty patch also passes,0,"resolved by an empty patch in a development run (dev-02 m02-nothink, analysis trace-fail-01): the grading tests pass without the fix"

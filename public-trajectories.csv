@@ -1,0 +1,1201 @@
+source,model,instance,trajectory,referee,verdict,outcome
+openhands,Qwen3-Coder-480B-A35B-Instruct,jpadilla__pyjwt-673,chatcmpl-03c880a2719978d7c4c3be0dee8ecfaa,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jpadilla__pyjwt-673,chatcmpl-03c880a2719978d7c4c3be0dee8ecfaa,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zmoog__refurbished-98,chatcmpl-943633e1ce8d7e44dcfc33268c8827e8,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zmoog__refurbished-98,chatcmpl-943633e1ce8d7e44dcfc33268c8827e8,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1086,chatcmpl-f2cd0ad89b6fc7cf6574fcf016117446,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1086,chatcmpl-f2cd0ad89b6fc7cf6574fcf016117446,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2432,chatcmpl-06d4470baa78c5a1e00bd1adc2c50d8f,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2432,chatcmpl-06d4470baa78c5a1e00bd1adc2c50d8f,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1027,chatcmpl-526bccdc4835a6de2c7efaf74cef72d6,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1027,chatcmpl-526bccdc4835a6de2c7efaf74cef72d6,own reproduction,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,creisle__markdown_refdocs-19,chatcmpl-0e94fd9a8195a6446c03a34dc3f69697,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,creisle__markdown_refdocs-19,chatcmpl-0e94fd9a8195a6446c03a34dc3f69697,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dirty-cat__dirty_cat-401,chatcmpl-2a654cd3c658d37089715eb64c16755e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dirty-cat__dirty_cat-401,chatcmpl-2a654cd3c658d37089715eb64c16755e,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,anchore__anchore-cli-144,chatcmpl-aea6ea1dc22247d1a9592982527c8f54,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,anchore__anchore-cli-144,chatcmpl-aea6ea1dc22247d1a9592982527c8f54,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mitmproxy__pdoc-754,chatcmpl-749e2f3d801b7fcbb31f0127b91d6533,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mitmproxy__pdoc-754,chatcmpl-749e2f3d801b7fcbb31f0127b91d6533,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jborean93__smbprotocol-264,chatcmpl-54e1e6b1edd665590c6b57c9e0ce70b2,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jborean93__smbprotocol-264,chatcmpl-54e1e6b1edd665590c6b57c9e0ce70b2,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-6186,chatcmpl-5179216c01048e45db64bed2f9072a93,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-6186,chatcmpl-5179216c01048e45db64bed2f9072a93,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-2866,chatcmpl-7f4a6ed7c7418f4869c1677c60332b3b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-2866,chatcmpl-7f4a6ed7c7418f4869c1677c60332b3b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,getsentry__responses-736,chatcmpl-73fff7875c61af27d27621c5a3e354db,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,getsentry__responses-736,chatcmpl-73fff7875c61af27d27621c5a3e354db,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,matrix-org__synapse-6212,chatcmpl-c692e56363e99962264ba541862de2bc,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,matrix-org__synapse-6212,chatcmpl-c692e56363e99962264ba541862de2bc,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,rsagroup__rsatoolbox-350,chatcmpl-89f3c34b91f4e06714e3e69f42fa2f04,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,rsagroup__rsatoolbox-350,chatcmpl-89f3c34b91f4e06714e3e69f42fa2f04,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,openlawlibrary__pygls-177,chatcmpl-7db1926348328c5bab412d7c8d47bfa0,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,openlawlibrary__pygls-177,chatcmpl-7db1926348328c5bab412d7c8d47bfa0,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__BTrees-56,chatcmpl-de5a8a2b6166d0045d8e63c4e78f69e9,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__BTrees-56,chatcmpl-de5a8a2b6166d0045d8e63c4e78f69e9,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,yukinarit__pyserde-565,chatcmpl-0678b3151259ebd0634772edbcd5c4ef,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yukinarit__pyserde-565,chatcmpl-0678b3151259ebd0634772edbcd5c4ef,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-1508,chatcmpl-af37dfd15aace78e2c89c14f312de3c2,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-1508,chatcmpl-af37dfd15aace78e2c89c14f312de3c2,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,hhatto__autopep8-748,chatcmpl-ab91ccd4ebe3275bb88e0df5ef04ef68,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,hhatto__autopep8-748,chatcmpl-ab91ccd4ebe3275bb88e0df5ef04ef68,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-1457,chatcmpl-9de2418b6417a09d3ce86694b303cd01,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-1457,chatcmpl-9de2418b6417a09d3ce86694b303cd01,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dwavesystems__dwave-system-364,chatcmpl-387fae2668bee66451cb8632f644906d,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dwavesystems__dwave-system-364,chatcmpl-387fae2668bee66451cb8632f644906d,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ResearchObject__ro-crate-py-171,chatcmpl-377e788430668f29cf3d994cf49f39e9,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ResearchObject__ro-crate-py-171,chatcmpl-377e788430668f29cf3d994cf49f39e9,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,fetzerch__kasserver-6,chatcmpl-b833e10564d1462cb6e1491ecd219c6e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,fetzerch__kasserver-6,chatcmpl-b833e10564d1462cb6e1491ecd219c6e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Unidata__MetPy-2653,chatcmpl-181352d7d584ba9bd0aab58c9224fc68,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Unidata__MetPy-2653,chatcmpl-181352d7d584ba9bd0aab58c9224fc68,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-cv-1596,chatcmpl-46ded8be776404b6f3682adf8912dd79,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-cv-1596,chatcmpl-46ded8be776404b6f3682adf8912dd79,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,twu__skjold-149,chatcmpl-78677ad81be4a8bb8038ebda845d4b2f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,twu__skjold-149,chatcmpl-78677ad81be4a8bb8038ebda845d4b2f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-22,chatcmpl-7d5e2f52ffbfeee8bcce8513b41b7a94,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-22,chatcmpl-7d5e2f52ffbfeee8bcce8513b41b7a94,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,capsulecorplab__mindgraph-23,chatcmpl-bc7da363cbc77840aa7a07554b9eaf7e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,capsulecorplab__mindgraph-23,chatcmpl-bc7da363cbc77840aa7a07554b9eaf7e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-3841,chatcmpl-e892454141ac5ef0efb9c5746e5e8af7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-3841,chatcmpl-e892454141ac5ef0efb9c5746e5e8af7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,datalad__datalad-7641,chatcmpl-a48d33cfa9e733380008f493199c6f6d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,datalad__datalad-7641,chatcmpl-a48d33cfa9e733380008f493199c6f6d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,yt-dlp__yt-dlp-12748,chatcmpl-0da4594403d99fb480a98547f5c7385f,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yt-dlp__yt-dlp-12748,chatcmpl-0da4594403d99fb480a98547f5c7385f,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,deppen8__pandas-vet-127,chatcmpl-9ea3c4e5a4ab003a754e2062a9ce40d7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,deppen8__pandas-vet-127,chatcmpl-9ea3c4e5a4ab003a754e2062a9ce40d7,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-372,chatcmpl-4182e2144ae08c609ea0b9b92a38a56b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-372,chatcmpl-4182e2144ae08c609ea0b9b92a38a56b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,frictionlessdata__frictionless-py-970,chatcmpl-8d5bef26b4a190a587b411f161369b3b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,frictionlessdata__frictionless-py-970,chatcmpl-8d5bef26b4a190a587b411f161369b3b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mikedh__trimesh-1331,chatcmpl-c3c7e32aed74751ac20860f0448b932b,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mikedh__trimesh-1331,chatcmpl-c3c7e32aed74751ac20860f0448b932b,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cwacek__python-jsonschema-objects-190,chatcmpl-128dee04a3f7daf8e017f9a4b6ac832d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,cwacek__python-jsonschema-objects-190,chatcmpl-128dee04a3f7daf8e017f9a4b6ac832d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,European-XFEL__EXtra-data-375,chatcmpl-c776928a8b7d4b75a1b5c579e42ddbed,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,European-XFEL__EXtra-data-375,chatcmpl-c776928a8b7d4b75a1b5c579e42ddbed,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,sdementen__oasapi-15,chatcmpl-649340bd434c87fcd57173ecb4e92b6b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sdementen__oasapi-15,chatcmpl-649340bd434c87fcd57173ecb4e92b6b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1976,chatcmpl-310c994e930f34f1371b7db9a2b7cbe6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pytorch__ignite-1976,chatcmpl-310c994e930f34f1371b7db9a2b7cbe6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__apispec-424,chatcmpl-9dc3aa832635ef37a37552e2438e44de,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__apispec-424,chatcmpl-9dc3aa832635ef37a37552e2438e44de,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-7734,chatcmpl-37186c71ab96fa0c2fb02a2b40d1a21f,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-7734,chatcmpl-37186c71ab96fa0c2fb02a2b40d1a21f,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mroberge__hydrofunctions-61,chatcmpl-4c0f103f2420cd27a2442b262f2cf3e5,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mroberge__hydrofunctions-61,chatcmpl-4c0f103f2420cd27a2442b262f2cf3e5,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ikalnytskyi__picobox-79,chatcmpl-c7611d9f3239ddc9826b28f2046b99d0,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ikalnytskyi__picobox-79,chatcmpl-c7611d9f3239ddc9826b28f2046b99d0,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pysmt__pysmt-445,chatcmpl-991e96c885d1fbd9553e19f51276133c,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pysmt__pysmt-445,chatcmpl-991e96c885d1fbd9553e19f51276133c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nutechsoftware__alarmdecoder-60,chatcmpl-3d4006b74092d190bcc241d7cda6760b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nutechsoftware__alarmdecoder-60,chatcmpl-3d4006b74092d190bcc241d7cda6760b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,somm15__PyViCare-313,chatcmpl-5d75d42213d261395ba8ef57b7a017f7,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,somm15__PyViCare-313,chatcmpl-5d75d42213d261395ba8ef57b7a017f7,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,fujiisoup__py3nj-8,chatcmpl-3279b4fa2df6e74a841bfe99328232e4,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,fujiisoup__py3nj-8,chatcmpl-3279b4fa2df6e74a841bfe99328232e4,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,repoze__repoze.who-38,chatcmpl-f85ff20a5ee638814bfa4467675fe22d,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,repoze__repoze.who-38,chatcmpl-f85ff20a5ee638814bfa4467675fe22d,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-1090,chatcmpl-8c2a1be2a52f91da1b94fdf36beb3c22,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-1090,chatcmpl-8c2a1be2a52f91da1b94fdf36beb3c22,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pybel__pybel-327,chatcmpl-928d0bdcacaa6a6f2ecb31606e40306f,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pybel__pybel-327,chatcmpl-928d0bdcacaa6a6f2ecb31606e40306f,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,borgbackup__borg-6528,chatcmpl-49794dec4e3ce5f4c860f3b660a0cd7b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,borgbackup__borg-6528,chatcmpl-49794dec4e3ce5f4c860f3b660a0cd7b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,twisted__towncrier-166,chatcmpl-637a28b27630cb54db78f557eba8e452,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,twisted__towncrier-166,chatcmpl-637a28b27630cb54db78f557eba8e452,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,imageio__imageio-510,chatcmpl-ea86d145693dbb52985b762d61643286,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,imageio__imageio-510,chatcmpl-ea86d145693dbb52985b762d61643286,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,rm-hull__luma.core-219,chatcmpl-dff0ccf53713ee06765db5eaefbf7f89,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,rm-hull__luma.core-219,chatcmpl-dff0ccf53713ee06765db5eaefbf7f89,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,INM-6__python-odmltables-120,chatcmpl-827e5921d46f822090226d59379ab251,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,INM-6__python-odmltables-120,chatcmpl-827e5921d46f822090226d59379ab251,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,canonical__operator-860,chatcmpl-fc754c4542591fc17f56eabbb8b83fd6,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,canonical__operator-860,chatcmpl-fc754c4542591fc17f56eabbb8b83fd6,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ameily__cincoconfig-26,chatcmpl-68e3c78608fd7045b749f1f0d63b81dc,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ameily__cincoconfig-26,chatcmpl-68e3c78608fd7045b749f1f0d63b81dc,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,BoboTiG__ebook-reader-dict-2149,chatcmpl-b875b70a0728cc4a565e8f3b87890391,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,BoboTiG__ebook-reader-dict-2149,chatcmpl-b875b70a0728cc4a565e8f3b87890391,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mc706__changelog-cli-34,chatcmpl-4e4916e8ce301b696e6841011684661b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mc706__changelog-cli-34,chatcmpl-4e4916e8ce301b696e6841011684661b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Algebra8__pyopenapi3-83,chatcmpl-c9e785595f1342fbcb9827d46e2a8a87,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Algebra8__pyopenapi3-83,chatcmpl-c9e785595f1342fbcb9827d46e2a8a87,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,google__importlab-23,chatcmpl-033bfbdf86902d35d9f71ab51f1c4976,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,google__importlab-23,chatcmpl-033bfbdf86902d35d9f71ab51f1c4976,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,locustio__locust-1088,chatcmpl-75e28ce7914dd1928220fea580d52c98,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,locustio__locust-1088,chatcmpl-75e28ce7914dd1928220fea580d52c98,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__flask-marshmallow-249,chatcmpl-71c1ea04ba37bd61c30bc0b6475dc6d7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__flask-marshmallow-249,chatcmpl-71c1ea04ba37bd61c30bc0b6475dc6d7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__zope.schema-39,chatcmpl-ab7cdc43ee153775241778bcae7fee46,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__zope.schema-39,chatcmpl-ab7cdc43ee153775241778bcae7fee46,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,maxfischer2781__asyncstdlib-24,chatcmpl-f9d8e948b2c5d8cf092fd0e41692f92b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,maxfischer2781__asyncstdlib-24,chatcmpl-f9d8e948b2c5d8cf092fd0e41692f92b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,serge-sans-paille__gast-59,chatcmpl-735396dc1b48f1d87fb27104df16664f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,serge-sans-paille__gast-59,chatcmpl-735396dc1b48f1d87fb27104df16664f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ej2__python-quickbooks-322,chatcmpl-f76d77b1e0cd6481181ef075f501631f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ej2__python-quickbooks-322,chatcmpl-f76d77b1e0cd6481181ef075f501631f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-2214,chatcmpl-13062dbeb11eba6fa33b5ca890648597,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-2214,chatcmpl-13062dbeb11eba6fa33b5ca890648597,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ianlini__flatten-dict-13,chatcmpl-e1e7946d4b03e050428f450abd413f22,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ianlini__flatten-dict-13,chatcmpl-e1e7946d4b03e050428f450abd413f22,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pybamm-team__PyBaMM-681,chatcmpl-733f6b40552d5017a682cb4dbcbea933,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pybamm-team__PyBaMM-681,chatcmpl-733f6b40552d5017a682cb4dbcbea933,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-1195,chatcmpl-0cf13368eda0b5fd3dd334cf28fcd726,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-1195,chatcmpl-0cf13368eda0b5fd3dd334cf28fcd726,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,coverahealth__dataspec-83,chatcmpl-edbdb293165bed252a758013ec611da8,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,coverahealth__dataspec-83,chatcmpl-edbdb293165bed252a758013ec611da8,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-864,chatcmpl-4a758669d027b1bbc5fc6490814588ec,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-864,chatcmpl-4a758669d027b1bbc5fc6490814588ec,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pythological__etuples-7,chatcmpl-66b46a29d9061a4aaffdde7798ef4e71,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pythological__etuples-7,chatcmpl-66b46a29d9061a4aaffdde7798ef4e71,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11301,chatcmpl-852a86d3fe5c3d69fbc6d81aaf812e59,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11301,chatcmpl-852a86d3fe5c3d69fbc6d81aaf812e59,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,spdx__tools-python-746,chatcmpl-7744e4e8f67dcbe29e45425f7952f474,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,spdx__tools-python-746,chatcmpl-7744e4e8f67dcbe29e45425f7952f474,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,lmfit__lmfit-py-554,chatcmpl-ef5e4a6699fe14e777e88e89182da4e6,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,lmfit__lmfit-py-554,chatcmpl-ef5e4a6699fe14e777e88e89182da4e6,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,praw-dev__praw-1422,chatcmpl-65b05784f37aa850be436cfdcf381b99,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,praw-dev__praw-1422,chatcmpl-65b05784f37aa850be436cfdcf381b99,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,skypyproject__skypy-365,chatcmpl-3286ea1bc6030646f397d45634ad47ae,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,skypyproject__skypy-365,chatcmpl-3286ea1bc6030646f397d45634ad47ae,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pcubillos__bibmanager-111,chatcmpl-8ae5c6e397e28d36651cbf6f91a256e6,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pcubillos__bibmanager-111,chatcmpl-8ae5c6e397e28d36651cbf6f91a256e6,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,asottile__dead-37,chatcmpl-500a00b68c7d9326276555333e3fd332,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,asottile__dead-37,chatcmpl-500a00b68c7d9326276555333e3fd332,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,blue-yonder__tsfresh-586,chatcmpl-21b8aced9fa6ed5508d3c73b78e79bc8,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,blue-yonder__tsfresh-586,chatcmpl-21b8aced9fa6ed5508d3c73b78e79bc8,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nipype__pydra-344,chatcmpl-1c3fc6a9b39c83542e88e67c8825b00e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nipype__pydra-344,chatcmpl-1c3fc6a9b39c83542e88e67c8825b00e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydata__sparse-356,chatcmpl-746cf12bf8995caacb7765140903d419,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydata__sparse-356,chatcmpl-746cf12bf8995caacb7765140903d419,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,googleapis__python-storage-1186,chatcmpl-721ef751f9bc294ad82c2beeeafbe731,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,googleapis__python-storage-1186,chatcmpl-721ef751f9bc294ad82c2beeeafbe731,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nilearn__nilearn-3098,chatcmpl-6c3f7ce18b76616af3354e42b548e076,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nilearn__nilearn-3098,chatcmpl-6c3f7ce18b76616af3354e42b548e076,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,whot__uji-17,chatcmpl-899a05be4b7b10f979226d3396a5851d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,whot__uji-17,chatcmpl-899a05be4b7b10f979226d3396a5851d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,chimpler__pyhocon-92,chatcmpl-ae52546cd73c7022d95efbc7b54c8f2c,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,chimpler__pyhocon-92,chatcmpl-ae52546cd73c7022d95efbc7b54c8f2c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ifosch__accloudtant-82,chatcmpl-1fb700f5d9548d5ac78b6bbf6bcfd35d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ifosch__accloudtant-82,chatcmpl-1fb700f5d9548d5ac78b6bbf6bcfd35d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__Products.ZCatalog-79,chatcmpl-afd6364f5451e03e8a2852466f883fc3,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__Products.ZCatalog-79,chatcmpl-afd6364f5451e03e8a2852466f883fc3,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,asdf-format__asdf-1825,chatcmpl-e85961683bb989fb50c2599c33561ad4,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,asdf-format__asdf-1825,chatcmpl-e85961683bb989fb50c2599c33561ad4,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,microsoft__debugpy-359,chatcmpl-203bc7b4e85adf0ec1b720eb29d083be,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,microsoft__debugpy-359,chatcmpl-203bc7b4e85adf0ec1b720eb29d083be,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-250,chatcmpl-27db2ea4e3c2c2aea797a1db1fbe72e7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-250,chatcmpl-27db2ea4e3c2c2aea797a1db1fbe72e7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,wemake-services__wemake-python-styleguide-1916,chatcmpl-3bfff1cc8cf484689859b5c6e3d88b1e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,wemake-services__wemake-python-styleguide-1916,chatcmpl-3bfff1cc8cf484689859b5c6e3d88b1e,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,MaineKuehn__classad-18,chatcmpl-65cd1ff1354ed72351e40488a713c403,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,MaineKuehn__classad-18,chatcmpl-65cd1ff1354ed72351e40488a713c403,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,terrapower__armi-1122,chatcmpl-a5292fe83932aa5819a3f8fe6ae002e0,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,terrapower__armi-1122,chatcmpl-a5292fe83932aa5819a3f8fe6ae002e0,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,claudep__swiss-qr-bill-63,chatcmpl-6314bef0129ed90f19f21b39018f4ffc,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,claudep__swiss-qr-bill-63,chatcmpl-6314bef0129ed90f19f21b39018f4ffc,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,runwayml__model-sdk-46,chatcmpl-d3a7d12eea6e8a1fc8a9504ad2b8fa31,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,runwayml__model-sdk-46,chatcmpl-d3a7d12eea6e8a1fc8a9504ad2b8fa31,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,awslabs__aws-embedded-metrics-python-20,chatcmpl-c8a7542f0edb1d8b82d558490cf50b34,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,awslabs__aws-embedded-metrics-python-20,chatcmpl-c8a7542f0edb1d8b82d558490cf50b34,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ilevkivskyi__com2ann-58,chatcmpl-9387d9f71695345890c5f8aa2f63a8c7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ilevkivskyi__com2ann-58,chatcmpl-9387d9f71695345890c5f8aa2f63a8c7,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-nlp-583,chatcmpl-777764f3c48b3ac8e06c95434c54975e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-nlp-583,chatcmpl-777764f3c48b3ac8e06c95434c54975e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,juju__python-libjuju-582,chatcmpl-3181d278ae0935f8b2c10dc9f7b956d6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,juju__python-libjuju-582,chatcmpl-3181d278ae0935f8b2c10dc9f7b956d6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mkdocs__mkdocs-2852,chatcmpl-b627cb7ab1b5edb4ebc35e45a61dd68e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mkdocs__mkdocs-2852,chatcmpl-b627cb7ab1b5edb4ebc35e45a61dd68e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,elastic__elasticsearch-dsl-py-1464,chatcmpl-a55cec64d56ebc38d8fe502c881b5f3f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,elastic__elasticsearch-dsl-py-1464,chatcmpl-a55cec64d56ebc38d8fe502c881b5f3f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jabesq__netatmo-api-python-67,chatcmpl-99a20be2d84ff0cea0f22981592030b6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jabesq__netatmo-api-python-67,chatcmpl-99a20be2d84ff0cea0f22981592030b6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-3554,chatcmpl-38219dc8f2782cf3d1031c86f990a2de,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-3554,chatcmpl-38219dc8f2782cf3d1031c86f990a2de,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3376,chatcmpl-a8a308ab61aa0a0e256f73c20d71b4d7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3376,chatcmpl-a8a308ab61aa0a0e256f73c20d71b4d7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,aarande__nexradaws-9,chatcmpl-55e088e2a28887a6861f79bb9433d36a,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,aarande__nexradaws-9,chatcmpl-55e088e2a28887a6861f79bb9433d36a,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ESMValGroup__ESMValCore-2668,chatcmpl-089c2e3b7153ee53f1a7efb1846acb63,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ESMValGroup__ESMValCore-2668,chatcmpl-089c2e3b7153ee53f1a7efb1846acb63,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,astropenguin__pandas-dataclasses-120,chatcmpl-726f2691145a0b38331a6abb51e71eae,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,astropenguin__pandas-dataclasses-120,chatcmpl-726f2691145a0b38331a6abb51e71eae,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,reframe-hpc__reframe-3173,chatcmpl-6d41d5c976574344bc42f685128fe5db,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,reframe-hpc__reframe-3173,chatcmpl-6d41d5c976574344bc42f685128fe5db,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,SpikeInterface__spikeinterface-2716,chatcmpl-3d358d32fd9391349776ef2e6ca73e4f,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,SpikeInterface__spikeinterface-2716,chatcmpl-3d358d32fd9391349776ef2e6ca73e4f,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iris-hep__qastle-52,chatcmpl-cff4c80ee7abbf725763d571f1f7415d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,iris-hep__qastle-52,chatcmpl-cff4c80ee7abbf725763d571f1f7415d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nengo__nengo-loihi-286,chatcmpl-22d2f92048e3da2c20b6f317235ecd55,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nengo__nengo-loihi-286,chatcmpl-22d2f92048e3da2c20b6f317235ecd55,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-208,chatcmpl-f62dc063e268375f63a5df8a1b70c027,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-208,chatcmpl-f62dc063e268375f63a5df8a1b70c027,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,agronholm__anyio-835,chatcmpl-d3a656d306603fe7879c9e1875cc54e0,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,agronholm__anyio-835,chatcmpl-d3a656d306603fe7879c9e1875cc54e0,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-683,chatcmpl-705470fe4fc19bf8f20c1192c6b4b26c,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-683,chatcmpl-705470fe4fc19bf8f20c1192c6b4b26c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-2353,chatcmpl-41db69dec5579c6a203ca617c561aab4,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-2353,chatcmpl-41db69dec5579c6a203ca617c561aab4,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,biopragmatics__bioregistry-955,chatcmpl-9b3a800c35938e4f88be7059e5938431,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,biopragmatics__bioregistry-955,chatcmpl-9b3a800c35938e4f88be7059e5938431,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NREL__hescore-hpxml-131,chatcmpl-447b6f5417e297bf6caae7774acbb9ff,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NREL__hescore-hpxml-131,chatcmpl-447b6f5417e297bf6caae7774acbb9ff,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,borgbackup__borg-2555,chatcmpl-377389b73ba974d16160e6425cb69f01,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,borgbackup__borg-2555,chatcmpl-377389b73ba974d16160e6425cb69f01,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jaraco__zipp-60,chatcmpl-fdea0b97ba7902c54637dc2ee373d1c3,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jaraco__zipp-60,chatcmpl-fdea0b97ba7902c54637dc2ee373d1c3,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,spacetx__starfish-1525,chatcmpl-a08e23f5b52e08d3bfca295721a1fc25,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,spacetx__starfish-1525,chatcmpl-a08e23f5b52e08d3bfca295721a1fc25,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,elastic__elastic-otel-python-197,chatcmpl-470d79d42552d9b1065721f17cbdaa74,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,elastic__elastic-otel-python-197,chatcmpl-470d79d42552d9b1065721f17cbdaa74,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,robotframework__SeleniumLibrary-1431,chatcmpl-325bfc03d58626e7ba093e6a6e1afc3a,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,robotframework__SeleniumLibrary-1431,chatcmpl-325bfc03d58626e7ba093e6a6e1afc3a,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ModellingWebLab__cellmlmanip-209,chatcmpl-babfe437fc8f3214c98138efbed14127,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ModellingWebLab__cellmlmanip-209,chatcmpl-babfe437fc8f3214c98138efbed14127,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-2513,chatcmpl-e9ce815d3e13278a38371459a73dd86c,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-2513,chatcmpl-e9ce815d3e13278a38371459a73dd86c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,easy-as-python__django-webmention-24,chatcmpl-0d310466b21703a3bb96469f0362d321,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,easy-as-python__django-webmention-24,chatcmpl-0d310466b21703a3bb96469f0362d321,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-801,chatcmpl-88a8d26aebc54c532905d3e45b876219,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-801,chatcmpl-88a8d26aebc54c532905d3e45b876219,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cekit__cekit-518,chatcmpl-c4c350bf1cc3dd24b6fc2570b70ccad5,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cekit__cekit-518,chatcmpl-c4c350bf1cc3dd24b6fc2570b70ccad5,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Instagram__MonkeyType-23,chatcmpl-c34bbb8a27fce4c8018848040b9f98f1,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Instagram__MonkeyType-23,chatcmpl-c34bbb8a27fce4c8018848040b9f98f1,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,linkml__linkml-995,chatcmpl-8d609acd51952347e53a18a11288bb2d,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,linkml__linkml-995,chatcmpl-8d609acd51952347e53a18a11288bb2d,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tox-dev__tox-travis-93,chatcmpl-6875a8533aaa59f49d2452cf5cc5b43c,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tox-dev__tox-travis-93,chatcmpl-6875a8533aaa59f49d2452cf5cc5b43c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,kytos__python-openflow-225,chatcmpl-f976f91410c9c5b05a95fc71948edf07,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kytos__python-openflow-225,chatcmpl-f976f91410c9c5b05a95fc71948edf07,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mirumee__ariadne-565,chatcmpl-0378028f61f5cfb413e1819c308e6578,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mirumee__ariadne-565,chatcmpl-0378028f61f5cfb413e1819c308e6578,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,unit8co__darts-1415,chatcmpl-f9a4b6da36749c47b2e946f60c2534da,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,unit8co__darts-1415,chatcmpl-f9a4b6da36749c47b2e946f60c2534da,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,couler-proj__couler-89,chatcmpl-dade983c3200abc8d1fd1308cff179e6,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,couler-proj__couler-89,chatcmpl-dade983c3200abc8d1fd1308cff179e6,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-1379,chatcmpl-90c3dfaec3fe3e0ec88aa7d3aad7d29f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-1379,chatcmpl-90c3dfaec3fe3e0ec88aa7d3aad7d29f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-5975,chatcmpl-4e8f29260cdd93fcc97ca436b3e4b69a,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-5975,chatcmpl-4e8f29260cdd93fcc97ca436b3e4b69a,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,canonical__charmcraft-1823,chatcmpl-633d345cd3171257694ea766ba083344,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,canonical__charmcraft-1823,chatcmpl-633d345cd3171257694ea766ba083344,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PyFilesystem__pyfilesystem2-396,chatcmpl-7ce101c4b341a4bcd288ae8d0b920973,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PyFilesystem__pyfilesystem2-396,chatcmpl-7ce101c4b341a4bcd288ae8d0b920973,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,maxfischer2781__asyncstdlib-12,chatcmpl-ceef81c59424a8e69992009bc62cec32,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,maxfischer2781__asyncstdlib-12,chatcmpl-ceef81c59424a8e69992009bc62cec32,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-3033,chatcmpl-418a3afdb8295d261c7e53d08c45f3b7,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-3033,chatcmpl-418a3afdb8295d261c7e53d08c45f3b7,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pypa__setuptools_scm-285,chatcmpl-a6fb537cebfab054bcc8425e80145fc3,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pypa__setuptools_scm-285,chatcmpl-a6fb537cebfab054bcc8425e80145fc3,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tefra__xsdata-901,chatcmpl-6438a4e6245cb53fe9d10d1f1afe8d7d,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tefra__xsdata-901,chatcmpl-6438a4e6245cb53fe9d10d1f1afe8d7d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kedro-org__kedro-4406,chatcmpl-ab6603d521e15da21aea9fd326278970,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kedro-org__kedro-4406,chatcmpl-ab6603d521e15da21aea9fd326278970,own reproduction,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,roboflow__supervision-1739,chatcmpl-aef6e06b7428544841a2aef6f9de0ffe,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,roboflow__supervision-1739,chatcmpl-aef6e06b7428544841a2aef6f9de0ffe,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jupyterhub__oauthenticator-764,chatcmpl-14d557ab5955e603f142e22bb10e1681,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jupyterhub__oauthenticator-764,chatcmpl-14d557ab5955e603f142e22bb10e1681,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-277,chatcmpl-39bd11665bc6b0841dece6d0e54ec2cd,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-277,chatcmpl-39bd11665bc6b0841dece6d0e54ec2cd,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,lightkurve__lightkurve-1426,chatcmpl-ad102092abd6dec61f78b0d52e636ae5,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,lightkurve__lightkurve-1426,chatcmpl-ad102092abd6dec61f78b0d52e636ae5,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,mirumee__ariadne-980,chatcmpl-515791d5c037b62a65bea06b62252a80,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mirumee__ariadne-980,chatcmpl-515791d5c037b62a65bea06b62252a80,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-1551,chatcmpl-e6d76b0924e297a21a51c6bd830b5a63,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-1551,chatcmpl-e6d76b0924e297a21a51c6bd830b5a63,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,berkerpeksag__astor-125,chatcmpl-57797477d7facc7b9fe85dddff8bb752,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,berkerpeksag__astor-125,chatcmpl-57797477d7facc7b9fe85dddff8bb752,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,xCDAT__xcdat-263,chatcmpl-481d965bccb145fabf6fdbac2925291e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,xCDAT__xcdat-263,chatcmpl-481d965bccb145fabf6fdbac2925291e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,narwhals-dev__narwhals-143,chatcmpl-6a47f9203400141eb8be3f13975aac37,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,narwhals-dev__narwhals-143,chatcmpl-6a47f9203400141eb8be3f13975aac37,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-7329,chatcmpl-f5765a0eb9bfd696a30c1e6a10a9ec35,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-7329,chatcmpl-f5765a0eb9bfd696a30c1e6a10a9ec35,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,numba__numba-5295,chatcmpl-e3ebe908cc43a747146894fa095ccd9d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,numba__numba-5295,chatcmpl-e3ebe908cc43a747146894fa095ccd9d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Textualize__textual-4452,chatcmpl-0a9f392cd7a92c7d8e995dcc54e442ed,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Textualize__textual-4452,chatcmpl-0a9f392cd7a92c7d8e995dcc54e442ed,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,googleapis__python-storage-445,chatcmpl-53013a8985ba8e298c5fad47b7d9f79f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,googleapis__python-storage-445,chatcmpl-53013a8985ba8e298c5fad47b7d9f79f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,lux-org__lux-442,chatcmpl-fb01f80d36c5b0349cd8a4ed76685b1c,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,lux-org__lux-442,chatcmpl-fb01f80d36c5b0349cd8a4ed76685b1c,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-269,chatcmpl-d529a8d06660aa547bd68484a85b8c68,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jackdewinter__pymarkdown-269,chatcmpl-d529a8d06660aa547bd68484a85b8c68,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-536,chatcmpl-fbd6a4b9670ff2ab002df07a70a6ceee,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-536,chatcmpl-fbd6a4b9670ff2ab002df07a70a6ceee,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,sscpac__statick-436,chatcmpl-7948f03af43bde1847316a623fc2702a,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,sscpac__statick-436,chatcmpl-7948f03af43bde1847316a623fc2702a,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ucfopen__canvasapi-343,chatcmpl-41d4cad37da9fcff85b62ee8b04c1eb8,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ucfopen__canvasapi-343,chatcmpl-41d4cad37da9fcff85b62ee8b04c1eb8,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,projectmesa__mesa-1413,chatcmpl-ff7c1889fd9421970564b87e5a670691,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,projectmesa__mesa-1413,chatcmpl-ff7c1889fd9421970564b87e5a670691,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2167,chatcmpl-10be3d923ec117e16e0c58b93e243747,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2167,chatcmpl-10be3d923ec117e16e0c58b93e243747,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__zope.publisher-46,chatcmpl-86083d6449853a6301c70de1a298704a,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__zope.publisher-46,chatcmpl-86083d6449853a6301c70de1a298704a,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Ch00k__ffmpy-84,chatcmpl-ce1b8ddef873a64a0f25620237d50d06,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Ch00k__ffmpy-84,chatcmpl-ce1b8ddef873a64a0f25620237d50d06,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,iris-hep__func_adl-149,chatcmpl-f22366c23db5bd2759946b3b119b3fe7,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iris-hep__func_adl-149,chatcmpl-f22366c23db5bd2759946b3b119b3fe7,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ResearchObject__ro-crate-py-102,chatcmpl-22e6d1ecaf204018e3f8464f0f55a406,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ResearchObject__ro-crate-py-102,chatcmpl-22e6d1ecaf204018e3f8464f0f55a406,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,CS-SI__eodag-634,chatcmpl-8a5b53c686593d148d5ca361f1643e02,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,CS-SI__eodag-634,chatcmpl-8a5b53c686593d148d5ca361f1643e02,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-5767,chatcmpl-5ef18e7ebe9015544f3af5cffabb8068,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-5767,chatcmpl-5ef18e7ebe9015544f3af5cffabb8068,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,stfc__PSyclone-2567,chatcmpl-77689258d59257f534caf579cb5a9cb4,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,stfc__PSyclone-2567,chatcmpl-77689258d59257f534caf579cb5a9cb4,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pjknkda__flake8-datetimez-3,chatcmpl-2c277a56366a5ac48bb4fc9aa6a21394,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pjknkda__flake8-datetimez-3,chatcmpl-2c277a56366a5ac48bb4fc9aa6a21394,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,planetlabs__planet-client-python-429,chatcmpl-2fa1dd93cb09503379f9061ce67c6bd6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,planetlabs__planet-client-python-429,chatcmpl-2fa1dd93cb09503379f9061ce67c6bd6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,jmespath__jmespath.py-126,chatcmpl-e24b30cb1dcb60bf5a64a4664a305ceb,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,jmespath__jmespath.py-126,chatcmpl-e24b30cb1dcb60bf5a64a4664a305ceb,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tox-dev__tox-2306,chatcmpl-243ac0c8d23c23cee7c1dc02bbf52e01,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tox-dev__tox-2306,chatcmpl-243ac0c8d23c23cee7c1dc02bbf52e01,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__uvicorn-962,chatcmpl-9ca3ca074227b105394d7e6238589387,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__uvicorn-962,chatcmpl-9ca3ca074227b105394d7e6238589387,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-695,chatcmpl-382f0e5ee7f93ac3e3a58bcf49d59ae9,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beeware__briefcase-695,chatcmpl-382f0e5ee7f93ac3e3a58bcf49d59ae9,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,MatterMiners__tardis-249,chatcmpl-cde12cc48cfcc1b85b70ef34f518a579,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,MatterMiners__tardis-249,chatcmpl-cde12cc48cfcc1b85b70ef34f518a579,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cloud-custodian__cloud-custodian-5640,chatcmpl-1b3954f467a233242f3cb0ecfce29e51,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cloud-custodian__cloud-custodian-5640,chatcmpl-1b3954f467a233242f3cb0ecfce29e51,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NVIDIA__nv-ingest-71,chatcmpl-0e6e494e215eb6ba5c4e438b754e6195,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,NVIDIA__nv-ingest-71,chatcmpl-0e6e494e215eb6ba5c4e438b754e6195,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bird-house__birdy-137,chatcmpl-391dc0916bbda8536ca9670e3089f78e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,bird-house__birdy-137,chatcmpl-391dc0916bbda8536ca9670e3089f78e,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sphinx-gallery__sphinx-gallery-792,chatcmpl-41741f16cd428dc355a3f0d2bf6c3621,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sphinx-gallery__sphinx-gallery-792,chatcmpl-41741f16cd428dc355a3f0d2bf6c3621,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,firebase__firebase-admin-python-122,chatcmpl-24431e63404c973ee625224272f440ca,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,firebase__firebase-admin-python-122,chatcmpl-24431e63404c973ee625224272f440ca,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-6647,chatcmpl-ed60059a31e52386e3ecf6edc9ab4372,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-6647,chatcmpl-ed60059a31e52386e3ecf6edc9ab4372,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-cmd2__cmd2-563,chatcmpl-4938a3b6fb32979632eed095cacd4df8,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-cmd2__cmd2-563,chatcmpl-4938a3b6fb32979632eed095cacd4df8,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,kynan__nbstripout-182,chatcmpl-e82595a49ec9d444050874b927ad0597,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kynan__nbstripout-182,chatcmpl-e82595a49ec9d444050874b927ad0597,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nltk__nltk-3205,chatcmpl-faa80744757c783a0dd8edf2637e63e1,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nltk__nltk-3205,chatcmpl-faa80744757c783a0dd8edf2637e63e1,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-281,chatcmpl-ca558dc1d32cdec1f4e911a1e422a49f,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bridgecrewio__checkov-281,chatcmpl-ca558dc1d32cdec1f4e911a1e422a49f,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__apispec-382,chatcmpl-60e28ba3fc5941bba335818937eefb24,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marshmallow-code__apispec-382,chatcmpl-60e28ba3fc5941bba335818937eefb24,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyupio__safety-293,chatcmpl-b09736d28f0183d0b66740f0cc5ca18e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyupio__safety-293,chatcmpl-b09736d28f0183d0b66740f0cc5ca18e,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zarr-developers__zarr-python-1354,chatcmpl-8d243d5af658d203309a93088077c951,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zarr-developers__zarr-python-1354,chatcmpl-8d243d5af658d203309a93088077c951,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,roaldnefs__salt-lint-35,chatcmpl-11f0cf8c33eeee168f832f6c0e3fabf7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,roaldnefs__salt-lint-35,chatcmpl-11f0cf8c33eeee168f832f6c0e3fabf7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,aws__chalice-1530,chatcmpl-44da64a6b142f0e9a26dcd529354073f,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,aws__chalice-1530,chatcmpl-44da64a6b142f0e9a26dcd529354073f,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,genericclient__genericclient-requests-14,chatcmpl-a4b2b9a65580c51c2ee380484364d1be,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,genericclient__genericclient-requests-14,chatcmpl-a4b2b9a65580c51c2ee380484364d1be,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2295,chatcmpl-f6b167cbf8df8a37138ffd2e636619de,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-2295,chatcmpl-f6b167cbf8df8a37138ffd2e636619de,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yukinarit__pyserde-620,chatcmpl-8435e6dfbb70b6ec6de8c93ab5cc11fc,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yukinarit__pyserde-620,chatcmpl-8435e6dfbb70b6ec6de8c93ab5cc11fc,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Duke-GCB__DukeDSClient-317,chatcmpl-67472c2205568955fa2be218b839719e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Duke-GCB__DukeDSClient-317,chatcmpl-67472c2205568955fa2be218b839719e,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,corteva__geocube-166,chatcmpl-c2503f6f85a906de5af74e8931e45cf8,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,corteva__geocube-166,chatcmpl-c2503f6f85a906de5af74e8931e45cf8,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,hylang__hy-2250,chatcmpl-4334a3434a84ca8d95a19cbdf822685d,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,hylang__hy-2250,chatcmpl-4334a3434a84ca8d95a19cbdf822685d,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,scikit-learn-contrib__imbalanced-learn-1016,chatcmpl-6d9ab2b0699e5feb1d048355d730a588,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,scikit-learn-contrib__imbalanced-learn-1016,chatcmpl-6d9ab2b0699e5feb1d048355d730a588,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cloud-custodian__cloud-custodian-5616,chatcmpl-48db53f7ca8909ed4ea6e85c53924580,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cloud-custodian__cloud-custodian-5616,chatcmpl-48db53f7ca8909ed4ea6e85c53924580,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,kpetremann__mqtt-exporter-37,chatcmpl-18bd5747ad52f38e5fb62af69dfc1124,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kpetremann__mqtt-exporter-37,chatcmpl-18bd5747ad52f38e5fb62af69dfc1124,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-439,chatcmpl-1d701cb9747b1b3bdd7da6279ca363be,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-439,chatcmpl-1d701cb9747b1b3bdd7da6279ca363be,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-6541,chatcmpl-5a6f38201d5421021499ad528645c468,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-6541,chatcmpl-5a6f38201d5421021499ad528645c468,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__httpx-653,chatcmpl-74c165c0333aa9a6a8fd11d82989f5e1,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__httpx-653,chatcmpl-74c165c0333aa9a6a8fd11d82989f5e1,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,CORE-GATECH-GROUP__serpent-tools-289,chatcmpl-e7d044ad2e6e5e845ad79705e807c468,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,CORE-GATECH-GROUP__serpent-tools-289,chatcmpl-e7d044ad2e6e5e845ad79705e807c468,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,xlab-si__xopera-opera-52,chatcmpl-f9c9f8c974ce881c31e7a63c402aa85e,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,xlab-si__xopera-opera-52,chatcmpl-f9c9f8c974ce881c31e7a63c402aa85e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-212,chatcmpl-d513c939f3ce10f44c89a54dab4331b3,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-212,chatcmpl-d513c939f3ce10f44c89a54dab4331b3,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,fatiando__pooch-171,chatcmpl-7d0f860cf8e98a5070431f5c4ccdc99c,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,fatiando__pooch-171,chatcmpl-7d0f860cf8e98a5070431f5c4ccdc99c,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pysmt__pysmt-644,chatcmpl-97e6ed6f0e637f0af2068b16bdd44f08,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pysmt__pysmt-644,chatcmpl-97e6ed6f0e637f0af2068b16bdd44f08,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,RadioAstronomySoftwareGroup__pyuvdata-732,chatcmpl-e4bd44989889019fc40e2875177e0405,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,RadioAstronomySoftwareGroup__pyuvdata-732,chatcmpl-e4bd44989889019fc40e2875177e0405,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,geopandas__geopandas-2067,chatcmpl-f4ebc8bbc51d1f0e7af4c2fed375a023,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,geopandas__geopandas-2067,chatcmpl-f4ebc8bbc51d1f0e7af4c2fed375a023,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-jsonschema__check-jsonschema-215,chatcmpl-1d117b0a62815aa7e75f8afa2b02f8e6,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-jsonschema__check-jsonschema-215,chatcmpl-1d117b0a62815aa7e75f8afa2b02f8e6,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,akaihola__darker-591,chatcmpl-b8811d89100509cd097aae6186c36352,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,akaihola__darker-591,chatcmpl-b8811d89100509cd097aae6186c36352,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,twisted__towncrier-624,chatcmpl-1e765b9856e075fb3556f5b3b4ecde78,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,twisted__towncrier-624,chatcmpl-1e765b9856e075fb3556f5b3b4ecde78,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Scille__umongo-190,chatcmpl-048592f45a62eae982457883cce09c85,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Scille__umongo-190,chatcmpl-048592f45a62eae982457883cce09c85,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,google__yapf-668,chatcmpl-7f3c3a75266c2138186661c9f6b8363b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,google__yapf-668,chatcmpl-7f3c3a75266c2138186661c9f6b8363b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,horejsek__python-fastjsonschema-88,chatcmpl-e107b448d6e2014bdea3148e511a7107,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,horejsek__python-fastjsonschema-88,chatcmpl-e107b448d6e2014bdea3148e511a7107,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,beetbox__beets-3805,chatcmpl-ab8af37c1d93982a645d11d6efe5b1de,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beetbox__beets-3805,chatcmpl-ab8af37c1d93982a645d11d6efe5b1de,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,BoboTiG__ebook-reader-dict-2101,chatcmpl-f53ba2155c8185732b890e3c7a931fae,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,BoboTiG__ebook-reader-dict-2101,chatcmpl-f53ba2155c8185732b890e3c7a931fae,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,keis__base58-46,chatcmpl-af95331724af0abb38111b8c4e9d1cd7,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,keis__base58-46,chatcmpl-af95331724af0abb38111b8c4e9d1cd7,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyscript__pyscript-cli-46,chatcmpl-bdfbf235558761ebea6cc6c84c539f3e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyscript__pyscript-cli-46,chatcmpl-bdfbf235558761ebea6cc6c84c539f3e,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-1050,chatcmpl-c00849f3bf0875f3b1db3e4de8411db3,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-1050,chatcmpl-c00849f3bf0875f3b1db3e4de8411db3,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Delgan__loguru-1303,chatcmpl-47603dd3f224e90dbbd1a7ece438486b,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Delgan__loguru-1303,chatcmpl-47603dd3f224e90dbbd1a7ece438486b,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NeurodataWithoutBorders__pynwb-439,chatcmpl-0a976d745c456ec0bd22c3310362dd12,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NeurodataWithoutBorders__pynwb-439,chatcmpl-0a976d745c456ec0bd22c3310362dd12,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__persistent-83,chatcmpl-0c780c3df30e15dc452d142fc1a7b76b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zopefoundation__persistent-83,chatcmpl-0c780c3df30e15dc452d142fc1a7b76b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11628,chatcmpl-2151778db97b685d925e5422e8d3e338,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11628,chatcmpl-2151778db97b685d925e5422e8d3e338,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-8,chatcmpl-82a2b76e8fe19f374b5557962c6a9953,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-8,chatcmpl-82a2b76e8fe19f374b5557962c6a9953,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,kedro-org__kedro-4030,chatcmpl-434f0f54860d92d03ebc559960d3835a,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,kedro-org__kedro-4030,chatcmpl-434f0f54860d92d03ebc559960d3835a,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,microsoft__electionguard-python-189,chatcmpl-4b0991cb36048f87e2616c7d84836624,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,microsoft__electionguard-python-189,chatcmpl-4b0991cb36048f87e2616c7d84836624,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-4749,chatcmpl-789a63484246f520898a9e005d167785,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,python-pillow__Pillow-4749,chatcmpl-789a63484246f520898a9e005d167785,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-292,chatcmpl-d593a8e2802a54de8bb2e25f11058c2a,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,encode__starlette-292,chatcmpl-d593a8e2802a54de8bb2e25f11058c2a,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,vertexproject__synapse-351,chatcmpl-5b9c4747fa4942a7974f081349c92839,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,vertexproject__synapse-351,chatcmpl-5b9c4747fa4942a7974f081349c92839,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobac-project__tobac-223,chatcmpl-57ee6b0c00a96d2e9246edc448e00055,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobac-project__tobac-223,chatcmpl-57ee6b0c00a96d2e9246edc448e00055,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,just-work__fffw-68,chatcmpl-8baff97e00d1e7bf4d1167660f69b86b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,just-work__fffw-68,chatcmpl-8baff97e00d1e7bf4d1167660f69b86b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marcosschroh__dataclasses-avroschema-198,chatcmpl-822feacf4d596241a3902168a3b8b7ec,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,marcosschroh__dataclasses-avroschema-198,chatcmpl-822feacf4d596241a3902168a3b8b7ec,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-1660,chatcmpl-91432eb0cfd954cde83818882e373af4,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-1660,chatcmpl-91432eb0cfd954cde83818882e373af4,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pre-commit__pre-commit-2746,chatcmpl-14658323f4986b788416f332197a53fc,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pre-commit__pre-commit-2746,chatcmpl-14658323f4986b788416f332197a53fc,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-6398,chatcmpl-bdb515f6e2da3e847206b10588f70628,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-6398,chatcmpl-bdb515f6e2da3e847206b10588f70628,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,beartype__beartype-88,chatcmpl-90352dfcba8506dcf49e5ceab01def59,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beartype__beartype-88,chatcmpl-90352dfcba8506dcf49e5ceab01def59,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marcosschroh__dataclasses-avroschema-236,chatcmpl-c43f16307a40e209b123b697a822d09b,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,marcosschroh__dataclasses-avroschema-236,chatcmpl-c43f16307a40e209b123b697a822d09b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11303,chatcmpl-592bf59aee9fdbc28d17c01ab9e3de99,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,dask__dask-11303,chatcmpl-592bf59aee9fdbc28d17c01ab9e3de99,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,omry__omegaconf-96,chatcmpl-d1709b6b675e2dfdfa5aabcb5445ec9a,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,omry__omegaconf-96,chatcmpl-d1709b6b675e2dfdfa5aabcb5445ec9a,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-595,chatcmpl-820f2dd0622e3a5e333a5b05c62a9641,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pydicom__pydicom-595,chatcmpl-820f2dd0622e3a5e333a5b05c62a9641,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,OCHA-DAP__hdx-python-country-63,chatcmpl-6439455a0066acdbf3fde91cb31173fe,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,OCHA-DAP__hdx-python-country-63,chatcmpl-6439455a0066acdbf3fde91cb31173fe,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Fatal1ty__mashumaro-220,chatcmpl-2fcae5759a6c5935fbdf0710d5da09b5,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Fatal1ty__mashumaro-220,chatcmpl-2fcae5759a6c5935fbdf0710d5da09b5,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-6048,chatcmpl-d09c882a7512846268b9127875261928,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-6048,chatcmpl-d09c882a7512846268b9127875261928,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,matchms__matchms-547,chatcmpl-f7db3e79fed7e869f0af9ac1b5b05cf6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,matchms__matchms-547,chatcmpl-f7db3e79fed7e869f0af9ac1b5b05cf6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-nlp-566,chatcmpl-f7d968cc1a19ec8650705897be31546b,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,keras-team__keras-nlp-566,chatcmpl-f7d968cc1a19ec8650705897be31546b,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,cclib__cclib-989,chatcmpl-4c14d4acdae0579d9d6550042c048933,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,cclib__cclib-989,chatcmpl-4c14d4acdae0579d9d6550042c048933,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,algorand__pyteal-561,chatcmpl-37410939b0847d6d009467ac590a1553,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,algorand__pyteal-561,chatcmpl-37410939b0847d6d009467ac590a1553,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,wright-group__WrightTools-1075,chatcmpl-396ec5bc253e70e14f3c9625d65ff009,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,wright-group__WrightTools-1075,chatcmpl-396ec5bc253e70e14f3c9625d65ff009,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beetbox__beets-3375,chatcmpl-846dd6e511a84e7f3045134a5ef88730,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,beetbox__beets-3375,chatcmpl-846dd6e511a84e7f3045134a5ef88730,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,MatterMiners__lapis-69,chatcmpl-e0928bfd20385581d34b54e1c2463c6a,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,MatterMiners__lapis-69,chatcmpl-e0928bfd20385581d34b54e1c2463c6a,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-419,chatcmpl-36b75d60c6802d89c4f2f8e65e1e4760,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,reata__sqllineage-419,chatcmpl-36b75d60c6802d89c4f2f8e65e1e4760,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,cisagov__check-cve-2019-19781-10,chatcmpl-37200e76b50ab0eb6964a0403acefb2d,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,cisagov__check-cve-2019-19781-10,chatcmpl-37200e76b50ab0eb6964a0403acefb2d,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ska-sa__fakenewsredis-3,chatcmpl-b80a3372d761e1ae66265b6568ff4e36,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ska-sa__fakenewsredis-3,chatcmpl-b80a3372d761e1ae66265b6568ff4e36,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,minio__minio-py-761,chatcmpl-1c0a998f6a823812ba1b96f6a3f7f8ee,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,minio__minio-py-761,chatcmpl-1c0a998f6a823812ba1b96f6a3f7f8ee,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-14362,chatcmpl-a25a6daf3eab0130c7ec6616674ad85b,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,conan-io__conan-14362,chatcmpl-a25a6daf3eab0130c7ec6616674ad85b,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-4311,chatcmpl-cb7cb16120c06287d05a7429fb315ee4,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-4311,chatcmpl-cb7cb16120c06287d05a7429fb315ee4,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Ouranosinc__xclim-347,chatcmpl-158858fa5fda5aa76aebcb6844e1df7a,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Ouranosinc__xclim-347,chatcmpl-158858fa5fda5aa76aebcb6844e1df7a,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,googlefonts__glyphsLib-862,chatcmpl-ed92a9a4dacbda80b10d69f7219f07f4,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,googlefonts__glyphsLib-862,chatcmpl-ed92a9a4dacbda80b10d69f7219f07f4,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-1329,chatcmpl-8d8aeca3c62fe2acb794a7319f2f41f4,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-1329,chatcmpl-8d8aeca3c62fe2acb794a7319f2f41f4,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3682,chatcmpl-88163bfaa0301374c2e2e8d057e2fe28,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3682,chatcmpl-88163bfaa0301374c2e2e8d057e2fe28,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yt-dlp__yt-dlp-10544,chatcmpl-16ebe6051ecf5e61c43b7f934a221f0e,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,yt-dlp__yt-dlp-10544,chatcmpl-16ebe6051ecf5e61c43b7f934a221f0e,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ucfopen__canvasapi-457,chatcmpl-b0e3ff135a6438accecbefae5cd24f7e,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ucfopen__canvasapi-457,chatcmpl-b0e3ff135a6438accecbefae5cd24f7e,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,bids-standard__pybids-326,chatcmpl-3c3c0d141307d2393c0c8ff2112bf536,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,bids-standard__pybids-326,chatcmpl-3c3c0d141307d2393c0c8ff2112bf536,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,stephenhillier__starlette_exporter-89,chatcmpl-ded9c295d2dc7f864b8e60f68af1df11,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,stephenhillier__starlette_exporter-89,chatcmpl-ded9c295d2dc7f864b8e60f68af1df11,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-5557,chatcmpl-b2df89cab15818161a8708df7ef4f3af,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,streamlink__streamlink-5557,chatcmpl-b2df89cab15818161a8708df7ef4f3af,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,asottile__babi-328,chatcmpl-45de2234a6a74533c9a59512a773ba44,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,asottile__babi-328,chatcmpl-45de2234a6a74533c9a59512a773ba44,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sktime__sktime-7638,chatcmpl-109262d588f39a8ecaa79f7e4ff5eca8,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sktime__sktime-7638,chatcmpl-109262d588f39a8ecaa79f7e4ff5eca8,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3417,chatcmpl-5a3b3d1b298da52066d93f968f931652,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,tobymao__sqlglot-3417,chatcmpl-5a3b3d1b298da52066d93f968f931652,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Textualize__textual-2530,chatcmpl-57c6ea092e91160e389111d2230458ed,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Textualize__textual-2530,chatcmpl-57c6ea092e91160e389111d2230458ed,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,collective__icalendar-235,chatcmpl-8f496ea9f3fdaf608f554ce8bef7b858,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,collective__icalendar-235,chatcmpl-8f496ea9f3fdaf608f554ce8bef7b858,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,adamchainz__apig-wsgi-80,chatcmpl-87c561fd31b20e444e75d7cef4cadf60,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,adamchainz__apig-wsgi-80,chatcmpl-87c561fd31b20e444e75d7cef4cadf60,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,sqlfluff__sqlfluff-6366,chatcmpl-a26a46fb11af4e1b8d604b11a617e4ff,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,sqlfluff__sqlfluff-6366,chatcmpl-a26a46fb11af4e1b8d604b11a617e4ff,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-175,chatcmpl-d63c9f2b0b815a87adf26ad4f35a6c93,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,NCAS-CMS__cfdm-175,chatcmpl-d63c9f2b0b815a87adf26ad4f35a6c93,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,ncclient__ncclient-405,chatcmpl-9d37363a47ad4e2722f044300749f7da,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ncclient__ncclient-405,chatcmpl-9d37363a47ad4e2722f044300749f7da,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,zimeon__ocfl-py-77,chatcmpl-5cda8ce6e5325a2b24cecec048cb9efa,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zimeon__ocfl-py-77,chatcmpl-5cda8ce6e5325a2b24cecec048cb9efa,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,planetlabs__planet-client-python-850,chatcmpl-05bbb3b4ba6597f24edbd47b8f9b0440,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,planetlabs__planet-client-python-850,chatcmpl-05bbb3b4ba6597f24edbd47b8f9b0440,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,just-work__fffw-89,chatcmpl-40b3ac954a61b33743ab99b03af8c7a2,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,just-work__fffw-89,chatcmpl-40b3ac954a61b33743ab99b03af8c7a2,own reproduction,undefined,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,numba__numba-6028,chatcmpl-79240ee5482285b5b24c3effd2639abb,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,numba__numba-6028,chatcmpl-79240ee5482285b5b24c3effd2639abb,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zalando-stups__senza-365,chatcmpl-f9d26c09b81698d6b72639bf5e74b2fa,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,zalando-stups__senza-365,chatcmpl-f9d26c09b81698d6b72639bf5e74b2fa,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mosdef-hub__gmso-530,chatcmpl-58b830a709b875ff9a0df15cb6cada0a,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mosdef-hub__gmso-530,chatcmpl-58b830a709b875ff9a0df15cb6cada0a,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-5851,chatcmpl-ae44df958f525c1031b6cb84d44406c9,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PennyLaneAI__pennylane-5851,chatcmpl-ae44df958f525c1031b6cb84d44406c9,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pandas-dev__pandas-61158,chatcmpl-289e853aaa49e0029215f4caf2ccf7d5,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pandas-dev__pandas-61158,chatcmpl-289e853aaa49e0029215f4caf2ccf7d5,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,r1chardj0n3s__parse-184,chatcmpl-501852008db2c1efc5e09ffb2e5b97eb,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,r1chardj0n3s__parse-184,chatcmpl-501852008db2c1efc5e09ffb2e5b97eb,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,miyuchina__mistletoe-57,chatcmpl-22f2589aedc1ef277ae353b3adc765b6,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,miyuchina__mistletoe-57,chatcmpl-22f2589aedc1ef277ae353b3adc765b6,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ValvePython__steam-359,chatcmpl-55cf776f85f4215cb973f94fb0261204,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,ValvePython__steam-359,chatcmpl-55cf776f85f4215cb973f94fb0261204,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Clinical-Genomics__scout-676,chatcmpl-41cdc8e7d1c9b951fb2bfee38821312f,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Clinical-Genomics__scout-676,chatcmpl-41cdc8e7d1c9b951fb2bfee38821312f,own reproduction,undefined,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,larq__zookeeper-241,chatcmpl-f80610c31178015cf6c5198bc4d104c4,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,larq__zookeeper-241,chatcmpl-f80610c31178015cf6c5198bc4d104c4,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-5181,chatcmpl-dc2e63bddcc811fa73284f58179f6fc3,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,pyvista__pyvista-5181,chatcmpl-dc2e63bddcc811fa73284f58179f6fc3,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mozilla__bleach-429,chatcmpl-ea4a5da94e63ff59041a64c716acea35,self-claim,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,mozilla__bleach-429,chatcmpl-ea4a5da94e63ff59041a64c716acea35,own reproduction,reject,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,nltk__nltk-3042,chatcmpl-7b8c34bce52048df9e1ccf298bd24a31,self-claim,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,nltk__nltk-3042,chatcmpl-7b8c34bce52048df9e1ccf298bd24a31,own reproduction,accept,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,Sceptre__sceptre-1513,chatcmpl-848e44217ef52203d5f08a0723610f36,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,Sceptre__sceptre-1513,chatcmpl-848e44217ef52203d5f08a0723610f36,own reproduction,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,PlaidWeb__Publ-354,chatcmpl-6946711435cb4bc2bbc3b5fa23c387c6,self-claim,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,PlaidWeb__Publ-354,chatcmpl-6946711435cb4bc2bbc3b5fa23c387c6,own reproduction,reject,fail
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-3132,chatcmpl-200952e17ebed3685fafabe6d5445b78,self-claim,accept,pass
+openhands,Qwen3-Coder-480B-A35B-Instruct,iterative__dvc-3132,chatcmpl-200952e17ebed3685fafabe6d5445b78,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,disqus__python-phabricator-64,swe_agent-0,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,disqus__python-phabricator-64,swe_agent-0,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,fnl__syntok-17,swe_agent-1,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,fnl__syntok-17,swe_agent-1,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,globocom__m3u8-125,swe_agent-2,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,globocom__m3u8-125,swe_agent-2,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,globocom__m3u8-125,swe_agent-3,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,globocom__m3u8-125,swe_agent-3,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,hgrecco__pint-pandas-204,swe_agent-4,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,hgrecco__pint-pandas-204,swe_agent-4,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,john-kurkowski__tldextract-258,swe_agent-5,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,john-kurkowski__tldextract-258,swe_agent-5,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,joke2k__faker-1569,swe_agent-6,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,joke2k__faker-1569,swe_agent-6,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,laterpay__laterpay-client-python-85,swe_agent-7,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,laterpay__laterpay-client-python-85,swe_agent-7,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,lidatong__dataclasses-json-123,swe_agent-8,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,lidatong__dataclasses-json-123,swe_agent-8,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,melexis__warnings-plugin-57,swe_agent-9,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,melexis__warnings-plugin-57,swe_agent-9,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,mkdocs__mkdocs-2852,swe_agent-10,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,mkdocs__mkdocs-2852,swe_agent-10,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,mkdocs__mkdocs-2852,swe_agent-11,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,mkdocs__mkdocs-2852,swe_agent-11,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-172,swe_agent-12,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-172,swe_agent-12,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,openlawlibrary__pygls-252,swe_agent-13,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,openlawlibrary__pygls-252,swe_agent-13,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,openlawlibrary__pygls-252,swe_agent-14,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,openlawlibrary__pygls-252,swe_agent-14,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-8b,praw-dev__praw-1960,swe_agent-15,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,praw-dev__praw-1960,swe_agent-15,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2051,swe_agent-16,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2051,swe_agent-16,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-793,swe_agent-17,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-793,swe_agent-17,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-958,swe_agent-18,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-958,swe_agent-18,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,python-adaptive__adaptive-276,swe_agent-19,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,python-adaptive__adaptive-276,swe_agent-19,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,python__cherry-picker-110,swe_agent-20,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,python__cherry-picker-110,swe_agent-20,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,python__cherry-picker-110,swe_agent-21,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,python__cherry-picker-110,swe_agent-21,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,pyvista__pyvista-4853,swe_agent-22,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pyvista__pyvista-4853,swe_agent-22,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,spiral-project__ihatemoney-1039,swe_agent-23,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,spiral-project__ihatemoney-1039,swe_agent-23,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,sqlfluff__sqlfluff-4041,swe_agent-24,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,sqlfluff__sqlfluff-4041,swe_agent-24,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,unt-libraries__edtf-validate-29,swe_agent-25,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,unt-libraries__edtf-validate-29,swe_agent-25,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,Melevir__cognitive_complexity-17,swe_agent-26,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Melevir__cognitive_complexity-17,swe_agent-26,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-129,swe_agent-27,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-129,swe_agent-27,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,nathan-v__aws_okta_keyman-72,swe_agent-28,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,nathan-v__aws_okta_keyman-72,swe_agent-28,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,nipy__nipype-2363,swe_agent-29,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,nipy__nipype-2363,swe_agent-29,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-868,swe_agent-30,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-868,swe_agent-30,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-868,swe_agent-31,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-868,swe_agent-31,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,radomirbosak__duden-195,swe_agent-32,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,radomirbosak__duden-195,swe_agent-32,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,reframe-hpc__reframe-2876,swe_agent-33,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,reframe-hpc__reframe-2876,swe_agent-33,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-2103,swe_agent-34,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-2103,swe_agent-34,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-5384,swe_agent-35,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-5384,swe_agent-35,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,serge-sans-paille__gast-50,swe_agent-36,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,serge-sans-paille__gast-50,swe_agent-36,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,serge-sans-paille__gast-50,swe_agent-37,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,serge-sans-paille__gast-50,swe_agent-37,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,tensorly__tensorly-170,swe_agent-38,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,tensorly__tensorly-170,swe_agent-38,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,tonioo__sievelib-86,swe_agent-39,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,tonioo__sievelib-86,swe_agent-39,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,tsutsu3__linkify-it-py-24,swe_agent-40,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,tsutsu3__linkify-it-py-24,swe_agent-40,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,zalando-stups__senza-397,swe_agent-41,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,zalando-stups__senza-397,swe_agent-41,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,zalando-stups__senza-397,swe_agent-42,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,zalando-stups__senza-397,swe_agent-42,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-405b,zopefoundation__DocumentTemplate-55,swe_agent-43,self-claim,accept,pass
+swe_agent,swe-agent-llama-405b,zopefoundation__DocumentTemplate-55,swe_agent-43,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Backblaze__b2-sdk-python-433,swe_agent-44,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Backblaze__b2-sdk-python-433,swe_agent-44,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Backblaze__b2-sdk-python-433,swe_agent-45,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,Backblaze__b2-sdk-python-433,swe_agent-45,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,ECCO-GROUP__ECCOv4-py-63,swe_agent-46,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,ECCO-GROUP__ECCOv4-py-63,swe_agent-46,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,INM-6__python-odmltables-120,swe_agent-47,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,INM-6__python-odmltables-120,swe_agent-47,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,adamchainz__apig-wsgi-156,swe_agent-48,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,adamchainz__apig-wsgi-156,swe_agent-48,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,asottile__dead-24,swe_agent-49,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,asottile__dead-24,swe_agent-49,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,awdeorio__mailmerge-135,swe_agent-50,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,awdeorio__mailmerge-135,swe_agent-50,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,batfish__pybatfish-232,swe_agent-51,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,batfish__pybatfish-232,swe_agent-51,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,dapr__python-sdk-293,swe_agent-52,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,dapr__python-sdk-293,swe_agent-52,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,PyThaiNLP__pythainlp-399,swe_agent-53,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,PyThaiNLP__pythainlp-399,swe_agent-53,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,SethMMorton__natsort-143,swe_agent-54,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,SethMMorton__natsort-143,swe_agent-54,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,acorg__dark-matter-663,swe_agent-55,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,acorg__dark-matter-663,swe_agent-55,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,adafruit__Adafruit_CircuitPython_GPS-76,swe_agent-56,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,adafruit__Adafruit_CircuitPython_GPS-76,swe_agent-56,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,alephdata__followthemoney-871,swe_agent-57,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,alephdata__followthemoney-871,swe_agent-57,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,alephdata__followthemoney-871,swe_agent-58,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,alephdata__followthemoney-871,swe_agent-58,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,bugsnag__bugsnag-python-188,swe_agent-59,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,bugsnag__bugsnag-python-188,swe_agent-59,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,bugsnag__bugsnag-python-188,swe_agent-60,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,bugsnag__bugsnag-python-188,swe_agent-60,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,cekit__cekit-509,swe_agent-61,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,cekit__cekit-509,swe_agent-61,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,cisagov__check-cve-2019-19781-10,swe_agent-62,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,cisagov__check-cve-2019-19781-10,swe_agent-62,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,craffel__mir_eval-374,swe_agent-63,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,craffel__mir_eval-374,swe_agent-63,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,crccheck__project_runpy-17,swe_agent-64,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,crccheck__project_runpy-17,swe_agent-64,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,cthoyt__class-resolver-37,swe_agent-65,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,cthoyt__class-resolver-37,swe_agent-65,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,ilevkivskyi__com2ann-21,swe_agent-66,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,ilevkivskyi__com2ann-21,swe_agent-66,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-3650,swe_agent-67,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-3650,swe_agent-67,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-4190,swe_agent-68,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-4190,swe_agent-68,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-7734,swe_agent-69,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-7734,swe_agent-69,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,klen__peewee_migrate-203,swe_agent-70,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,klen__peewee_migrate-203,swe_agent-70,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-382,swe_agent-71,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-382,swe_agent-71,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-382,swe_agent-72,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-382,swe_agent-72,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-495,swe_agent-73,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__apispec-495,swe_agent-73,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,mc706__changelog-cli-34,swe_agent-74,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,mc706__changelog-cli-34,swe_agent-74,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,mggg__GerryChain-316,swe_agent-75,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,mggg__GerryChain-316,swe_agent-75,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,nithinmurali__pygsheets-272,swe_agent-76,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,nithinmurali__pygsheets-272,swe_agent-76,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,ofek__hatch-vcs-17,swe_agent-77,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,ofek__hatch-vcs-17,swe_agent-77,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,orcasgit__python-nokia-28,swe_agent-78,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,orcasgit__python-nokia-28,swe_agent-78,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4884,swe_agent-79,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4884,swe_agent-79,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-2240,swe_agent-80,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-2240,swe_agent-80,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,reata__sqllineage-19,swe_agent-81,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,reata__sqllineage-19,swe_agent-81,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,nipype__pydra-261,swe_agent-82,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,nipype__pydra-261,swe_agent-82,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-354,swe_agent-83,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-354,swe_agent-83,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-354,swe_agent-84,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-354,swe_agent-84,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,phfaist__pylatexenc-4,swe_agent-85,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,phfaist__pylatexenc-4,swe_agent-85,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2672,swe_agent-86,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2672,swe_agent-86,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-1192,swe_agent-87,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-1192,swe_agent-87,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,pypa__wheel-250,swe_agent-88,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pypa__wheel-250,swe_agent-88,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,robotpy__robotpy-cppheaderparser-42,swe_agent-89,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,robotpy__robotpy-cppheaderparser-42,swe_agent-89,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,scieloorg__xylose-158,swe_agent-90,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,scieloorg__xylose-158,swe_agent-90,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,scitokens__scitokens-193,swe_agent-91,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,scitokens__scitokens-193,swe_agent-91,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,scitokens__scitokens-193,swe_agent-92,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,scitokens__scitokens-193,swe_agent-92,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-2065,swe_agent-93,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,scrapy__scrapy-2065,swe_agent-93,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,sendgrid__sendgrid-python-233,swe_agent-94,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,sendgrid__sendgrid-python-233,swe_agent-94,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,sendgrid__sendgrid-python-233,swe_agent-95,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,sendgrid__sendgrid-python-233,swe_agent-95,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,stan-dev__pystan-257,swe_agent-96,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,stan-dev__pystan-257,swe_agent-96,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,stan-dev__pystan-257,swe_agent-97,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,stan-dev__pystan-257,swe_agent-97,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,xCDAT__xcdat-241,swe_agent-98,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,xCDAT__xcdat-241,swe_agent-98,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,CS-SI__eodag-586,swe_agent-99,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,CS-SI__eodag-586,swe_agent-99,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,Instagram__LibCST-356,swe_agent-100,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,Instagram__LibCST-356,swe_agent-100,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,PlasmaPy__PlasmaPy-138,swe_agent-101,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,PlasmaPy__PlasmaPy-138,swe_agent-101,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,PlasmaPy__PlasmaPy-138,swe_agent-102,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,PlasmaPy__PlasmaPy-138,swe_agent-102,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,PyCQA__pyflakes-801,swe_agent-103,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,PyCQA__pyflakes-801,swe_agent-103,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,TheFriendlyCoder__friendlypins-77,swe_agent-104,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,TheFriendlyCoder__friendlypins-77,swe_agent-104,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,aesara-devs__aesara-465,swe_agent-105,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,aesara-devs__aesara-465,swe_agent-105,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,asottile__pyupgrade-438,swe_agent-106,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,asottile__pyupgrade-438,swe_agent-106,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,asottile__pyupgrade-529,swe_agent-107,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,asottile__pyupgrade-529,swe_agent-107,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,commitizen-tools__commitizen-497,swe_agent-108,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,commitizen-tools__commitizen-497,swe_agent-108,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,glotzerlab__signac-211,swe_agent-109,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,glotzerlab__signac-211,swe_agent-109,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,isi-vista__adam-166,swe_agent-110,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,isi-vista__adam-166,swe_agent-110,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-7234,swe_agent-111,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-7234,swe_agent-111,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-7234,swe_agent-112,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-7234,swe_agent-112,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-8251,swe_agent-113,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-8251,swe_agent-113,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,jjhelmus__nmrglue-216,swe_agent-114,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,jjhelmus__nmrglue-216,swe_agent-114,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,kangasta__fdbk-77,swe_agent-115,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,kangasta__fdbk-77,swe_agent-115,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,kodemore__kink-43,swe_agent-116,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,kodemore__kink-43,swe_agent-116,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,matchms__matchms-212,swe_agent-117,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,matchms__matchms-212,swe_agent-117,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,matthewwithanm__python-markdownify-118,swe_agent-118,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,matthewwithanm__python-markdownify-118,swe_agent-118,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,microsoft__electionguard-python-189,swe_agent-119,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,microsoft__electionguard-python-189,swe_agent-119,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,mixkorshun__django-antispam-6,swe_agent-120,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,mixkorshun__django-antispam-6,swe_agent-120,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2056,swe_agent-121,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2056,swe_agent-121,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2811,swe_agent-122,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2811,swe_agent-122,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4187,swe_agent-123,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4187,swe_agent-123,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydata__pydata-google-auth-31,swe_agent-124,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydata__pydata-google-auth-31,swe_agent-124,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,pydata__pydata-google-auth-31,swe_agent-125,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydata__pydata-google-auth-31,swe_agent-125,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-1614,swe_agent-126,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-1614,swe_agent-126,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,scikit-hep__scikit-hep-333,swe_agent-127,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,scikit-hep__scikit-hep-333,swe_agent-127,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,sqlfluff__sqlfluff-884,swe_agent-128,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,sqlfluff__sqlfluff-884,swe_agent-128,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,protolambda__remerkleable-21,swe_agent-129,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,protolambda__remerkleable-21,swe_agent-129,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1073,swe_agent-130,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1073,swe_agent-130,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1854,swe_agent-131,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1854,swe_agent-131,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1854,swe_agent-132,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1854,swe_agent-132,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4329,swe_agent-133,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4329,swe_agent-133,own reproduction,accept,pass
+swe_agent,swe-agent-llama-8b,spdx__tools-python-481,swe_agent-134,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,spdx__tools-python-481,swe_agent-134,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,springload__draftjs_exporter-57,swe_agent-135,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,springload__draftjs_exporter-57,swe_agent-135,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,PEtab-dev__libpetab-python-235,swe_agent-136,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,PEtab-dev__libpetab-python-235,swe_agent-136,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,PyCQA__pyflakes-472,swe_agent-137,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,PyCQA__pyflakes-472,swe_agent-137,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,Sceptre__sceptre-1249,swe_agent-138,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Sceptre__sceptre-1249,swe_agent-138,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,Textualize__textual-1427,swe_agent-139,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Textualize__textual-1427,swe_agent-139,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,beetbox__confuse-78,swe_agent-140,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,beetbox__confuse-78,swe_agent-140,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,cta-observatory__pyirf-188,swe_agent-141,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,cta-observatory__pyirf-188,swe_agent-141,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,cta-observatory__pyirf-188,swe_agent-142,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,cta-observatory__pyirf-188,swe_agent-142,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,joke2k__faker-907,swe_agent-143,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,joke2k__faker-907,swe_agent-143,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,lightstep__lightstep-tracer-python-109,swe_agent-144,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,lightstep__lightstep-tracer-python-109,swe_agent-144,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,marcosschroh__dataclasses-avroschema-244,swe_agent-145,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,marcosschroh__dataclasses-avroschema-244,swe_agent-145,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,marcosschroh__dataclasses-avroschema-244,swe_agent-146,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,marcosschroh__dataclasses-avroschema-244,swe_agent-146,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,mps-gmbh__hl7-parser-27,swe_agent-147,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,mps-gmbh__hl7-parser-27,swe_agent-147,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,dotmesh-io__dotscience-python-37,swe_agent-148,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,dotmesh-io__dotscience-python-37,swe_agent-148,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,globocom__m3u8-149,swe_agent-149,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,globocom__m3u8-149,swe_agent-149,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,hgrecco__pint-pandas-207,swe_agent-150,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,hgrecco__pint-pandas-207,swe_agent-150,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-3097,swe_agent-151,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-3097,swe_agent-151,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-5161,swe_agent-152,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-5161,swe_agent-152,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,marshmallow-code__flask-smorest-542,swe_agent-153,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,marshmallow-code__flask-smorest-542,swe_agent-153,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,microsoft__electionguard-python-191,swe_agent-154,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,microsoft__electionguard-python-191,swe_agent-154,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-407,swe_agent-155,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-407,swe_agent-155,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-407,swe_agent-156,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,oasis-open__cti-python-stix2-407,swe_agent-156,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,oasis-open__cti-taxii-client-11,swe_agent-157,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,oasis-open__cti-taxii-client-11,swe_agent-157,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,ofek__bit-72,swe_agent-158,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,ofek__bit-72,swe_agent-158,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,planetlabs__planet-client-python-581,swe_agent-159,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,planetlabs__planet-client-python-581,swe_agent-159,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1165,swe_agent-160,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1165,swe_agent-160,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3543,swe_agent-161,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3543,swe_agent-161,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3543,swe_agent-162,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3543,swe_agent-162,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3646,swe_agent-163,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3646,swe_agent-163,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-6586,swe_agent-164,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-6586,swe_agent-164,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-1741,swe_agent-165,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pylint-dev__astroid-1741,swe_agent-165,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pypa__setuptools_scm-277,swe_agent-166,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pypa__setuptools_scm-277,swe_agent-166,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,seequent__pure_interface-54,swe_agent-167,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,seequent__pure_interface-54,swe_agent-167,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,seequent__pure_interface-54,swe_agent-168,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,seequent__pure_interface-54,swe_agent-168,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,smok-serwis__coolamqp-28,swe_agent-169,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,smok-serwis__coolamqp-28,swe_agent-169,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,stfc__fparser-109,swe_agent-170,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,stfc__fparser-109,swe_agent-170,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-1953,swe_agent-171,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-1953,swe_agent-171,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,twisted__twisted-11831,swe_agent-172,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,twisted__twisted-11831,swe_agent-172,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,Deltares__pyflwdir-18,swe_agent-173,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,Deltares__pyflwdir-18,swe_agent-173,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,Knio__pynmea2-124,swe_agent-174,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,Knio__pynmea2-124,swe_agent-174,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,Knio__pynmea2-124,swe_agent-175,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Knio__pynmea2-124,swe_agent-175,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-209,swe_agent-176,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-209,swe_agent-176,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-209,swe_agent-177,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,PyCQA__flake8-bugbear-209,swe_agent-177,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,auth0__auth0-python-354,swe_agent-178,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,auth0__auth0-python-354,swe_agent-178,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,auth0__auth0-python-354,swe_agent-179,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,auth0__auth0-python-354,swe_agent-179,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-8b,barrust__pyspellchecker-87,swe_agent-180,self-claim,reject,pass
+swe_agent,swe-agent-llama-8b,barrust__pyspellchecker-87,swe_agent-180,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,biolink__biolinkml-369,swe_agent-181,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,biolink__biolinkml-369,swe_agent-181,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,celery__py-amqp-344,swe_agent-182,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,celery__py-amqp-344,swe_agent-182,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,dask__zict-13,swe_agent-183,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,dask__zict-13,swe_agent-183,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,NCAS-CMS__cfdm-175,swe_agent-184,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,NCAS-CMS__cfdm-175,swe_agent-184,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Textualize__textual-2532,swe_agent-185,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Textualize__textual-2532,swe_agent-185,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-273,swe_agent-186,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,agronholm__anyio-273,swe_agent-186,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,agronholm__anyio-273,swe_agent-187,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-273,swe_agent-187,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-597,swe_agent-188,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-597,swe_agent-188,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,asottile__all-repos-91,swe_agent-189,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,asottile__all-repos-91,swe_agent-189,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-8b,aws__aws-xray-sdk-python-93,swe_agent-190,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,aws__aws-xray-sdk-python-93,swe_agent-190,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,cherrypy__cherrypy-1628,swe_agent-191,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,cherrypy__cherrypy-1628,swe_agent-191,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,cloudevents__sdk-python-172,swe_agent-192,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,cloudevents__sdk-python-172,swe_agent-192,own reproduction,accept,pass
+swe_agent,swe-agent-llama-8b,conda__conda-pack-50,swe_agent-193,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,conda__conda-pack-50,swe_agent-193,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,da4089__simplefix-17,swe_agent-194,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,da4089__simplefix-17,swe_agent-194,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,encode__starlette-801,swe_agent-195,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,encode__starlette-801,swe_agent-195,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,horejsek__python-fastjsonschema-27,swe_agent-196,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,horejsek__python-fastjsonschema-27,swe_agent-196,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,influxdata__influxdb-client-python-93,swe_agent-197,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,influxdata__influxdb-client-python-93,swe_agent-197,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-4591,swe_agent-198,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-4591,swe_agent-198,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,mahmoud__boltons-203,swe_agent-199,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,mahmoud__boltons-203,swe_agent-199,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,perrygeo__python-rasterstats-287,swe_agent-200,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,perrygeo__python-rasterstats-287,swe_agent-200,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pycontribs__jenkinsapi-511,swe_agent-201,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pycontribs__jenkinsapi-511,swe_agent-201,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3216,swe_agent-202,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3216,swe_agent-202,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-1033,swe_agent-203,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydicom__pydicom-1033,swe_agent-203,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,reata__sqllineage-22,swe_agent-204,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,reata__sqllineage-22,swe_agent-204,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,reframe-hpc__reframe-2913,swe_agent-205,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,reframe-hpc__reframe-2913,swe_agent-205,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-2355,swe_agent-206,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-2355,swe_agent-206,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,M0r13n__pyais-67,swe_agent-207,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,M0r13n__pyais-67,swe_agent-207,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,Picterra__picterra-python-61,swe_agent-208,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,Picterra__picterra-python-61,swe_agent-208,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,allrod5__parameters-validation-9,swe_agent-209,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,allrod5__parameters-validation-9,swe_agent-209,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,chimpler__pyhocon-195,swe_agent-210,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,chimpler__pyhocon-195,swe_agent-210,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,dgasmith__opt_einsum-53,swe_agent-211,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,dgasmith__opt_einsum-53,swe_agent-211,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-2190,swe_agent-212,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-2190,swe_agent-212,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-2190,swe_agent-213,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-2190,swe_agent-213,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-9146,swe_agent-214,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-9146,swe_agent-214,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,jmwri__ioccontainer-4,swe_agent-215,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,jmwri__ioccontainer-4,swe_agent-215,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,jmwri__ioccontainer-4,swe_agent-216,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,jmwri__ioccontainer-4,swe_agent-216,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,lebedov__msgpack-numpy-43,swe_agent-217,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,lebedov__msgpack-numpy-43,swe_agent-217,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,microsoft__debugpy-1147,swe_agent-218,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,microsoft__debugpy-1147,swe_agent-218,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,networkx__networkx-5903,swe_agent-219,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,networkx__networkx-5903,swe_agent-219,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,oduwsdl__MementoEmbed-131,swe_agent-220,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,oduwsdl__MementoEmbed-131,swe_agent-220,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,mkaz__termgraph-87,swe_agent-221,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,mkaz__termgraph-87,swe_agent-221,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,mozilla__bleach-434,swe_agent-222,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,mozilla__bleach-434,swe_agent-222,own reproduction,accept,pass
+swe_agent,swe-agent-llama-8b,mozilla__bleach-722,swe_agent-223,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,mozilla__bleach-722,swe_agent-223,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,paambaati__mae-2,swe_agent-224,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,paambaati__mae-2,swe_agent-224,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1518,swe_agent-225,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1518,swe_agent-225,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-1630,swe_agent-226,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-1630,swe_agent-226,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2319,swe_agent-227,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2319,swe_agent-227,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3241,swe_agent-228,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3241,swe_agent-228,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3241,swe_agent-229,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3241,swe_agent-229,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3551,swe_agent-230,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3551,swe_agent-230,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3551,swe_agent-231,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-3551,swe_agent-231,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,sayanarijit__expandvars-41,swe_agent-232,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,sayanarijit__expandvars-41,swe_agent-232,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,typesafehub__conductr-cli-466,swe_agent-233,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,typesafehub__conductr-cli-466,swe_agent-233,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,typesafehub__conductr-cli-466,swe_agent-234,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,typesafehub__conductr-cli-466,swe_agent-234,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,wireservice__csvkit-645,swe_agent-235,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,wireservice__csvkit-645,swe_agent-235,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,wireservice__csvkit-645,swe_agent-236,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,wireservice__csvkit-645,swe_agent-236,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,zheller__flake8-quotes-46,swe_agent-237,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,zheller__flake8-quotes-46,swe_agent-237,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,zopefoundation__DocumentTemplate-18,swe_agent-238,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,zopefoundation__DocumentTemplate-18,swe_agent-238,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,zopefoundation__RestrictedPython-135,swe_agent-239,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,zopefoundation__RestrictedPython-135,swe_agent-239,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Parquery__pylddwrap-13,swe_agent-240,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,Parquery__pylddwrap-13,swe_agent-240,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,Pylons__webob-332,swe_agent-241,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,Pylons__webob-332,swe_agent-241,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,RDFLib__rdflib-2474,swe_agent-242,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,RDFLib__rdflib-2474,swe_agent-242,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,RWTH-EBC__pyCity-248,swe_agent-243,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,RWTH-EBC__pyCity-248,swe_agent-243,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,ResearchObject__ro-crate-py-169,swe_agent-244,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,ResearchObject__ro-crate-py-169,swe_agent-244,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-2160,swe_agent-245,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,tobymao__sqlglot-2160,swe_agent-245,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,zamzterz__Flask-pyoidc-96,swe_agent-246,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,zamzterz__Flask-pyoidc-96,swe_agent-246,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,ASFHyP3__hyp3-sdk-53,swe_agent-247,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,ASFHyP3__hyp3-sdk-53,swe_agent-247,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Azure__msrest-for-python-43,swe_agent-248,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Azure__msrest-for-python-43,swe_agent-248,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Backblaze__B2_Command_Line_Tool-332,swe_agent-249,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Backblaze__B2_Command_Line_Tool-332,swe_agent-249,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,Dorthu__openapi3-94,swe_agent-250,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,Dorthu__openapi3-94,swe_agent-250,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,PyCQA__isort-1995,swe_agent-251,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,PyCQA__isort-1995,swe_agent-251,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-666,swe_agent-252,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,agronholm__anyio-666,swe_agent-252,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,antirotor__speedcopy-6,swe_agent-253,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,antirotor__speedcopy-6,swe_agent-253,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,bryanyang0528__ksql-python-73,swe_agent-254,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,bryanyang0528__ksql-python-73,swe_agent-254,own reproduction,reject,pass
+swe_agent,swe-agent-llama-8b,canonical__operator-860,swe_agent-255,self-claim,reject,pass
+swe_agent,swe-agent-llama-8b,canonical__operator-860,swe_agent-255,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,duo-labs__parliament-177,swe_agent-256,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,duo-labs__parliament-177,swe_agent-256,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,ekzhu__datasketch-234,swe_agent-257,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,ekzhu__datasketch-234,swe_agent-257,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,fastmonkeys__stellar-76,swe_agent-258,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,fastmonkeys__stellar-76,swe_agent-258,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,gouline__dbt-metabase-158,swe_agent-259,self-claim,reject,pass
+swe_agent,swe-agent-llama-70b,gouline__dbt-metabase-158,swe_agent-259,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-2153,swe_agent-260,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-2153,swe_agent-260,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,joke2k__faker-1043,swe_agent-261,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,joke2k__faker-1043,swe_agent-261,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,linkedin__shiv-52,swe_agent-262,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,linkedin__shiv-52,swe_agent-262,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,marcharper__python-ternary-136,swe_agent-263,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,marcharper__python-ternary-136,swe_agent-263,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__marshmallow-1524,swe_agent-264,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,marshmallow-code__marshmallow-1524,swe_agent-264,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,bihealth__biomedsheets-27,swe_agent-265,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,bihealth__biomedsheets-27,swe_agent-265,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,canonical__charmcraft-545,swe_agent-266,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,canonical__charmcraft-545,swe_agent-266,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,construct__construct-1040,swe_agent-267,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,construct__construct-1040,swe_agent-267,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-8b,cookiecutter__cookiecutter-2029,swe_agent-268,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,cookiecutter__cookiecutter-2029,swe_agent-268,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,django-money__django-money-594,swe_agent-269,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,django-money__django-money-594,swe_agent-269,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,elastic__elasticsearch-py-628,swe_agent-270,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,elastic__elasticsearch-py-628,swe_agent-270,own reproduction,accept,pass
+swe_agent,swe-agent-llama-405b,florimondmanca__fountain-lang-7,swe_agent-271,self-claim,reject,pass
+swe_agent,swe-agent-llama-405b,florimondmanca__fountain-lang-7,swe_agent-271,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,fniessink__next-action-146,swe_agent-272,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,fniessink__next-action-146,swe_agent-272,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,hgrecco__pint-877,swe_agent-273,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,hgrecco__pint-877,swe_agent-273,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-2353,swe_agent-274,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-2353,swe_agent-274,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,iterative__dvc-2353,swe_agent-275,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,iterative__dvc-2353,swe_agent-275,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,omni-us__jsonargparse-248,swe_agent-276,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,omni-us__jsonargparse-248,swe_agent-276,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,omni-us__jsonargparse-248,swe_agent-277,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,omni-us__jsonargparse-248,swe_agent-277,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-1527,swe_agent-278,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-1527,swe_agent-278,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2119,swe_agent-279,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2119,swe_agent-279,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2169,swe_agent-280,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-2169,swe_agent-280,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,matchms__matchms-399,swe_agent-281,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,matchms__matchms-399,swe_agent-281,own reproduction,accept,pass
+swe_agent,swe-agent-llama-8b,nipy__nipype-3325,swe_agent-282,self-claim,reject,fail
+swe_agent,swe-agent-llama-8b,nipy__nipype-3325,swe_agent-282,own reproduction,reject,fail
+swe_agent,swe-agent-llama-405b,nipy__nipype-3325,swe_agent-283,self-claim,reject,pass
+swe_agent,swe-agent-llama-405b,nipy__nipype-3325,swe_agent-283,own reproduction,reject,pass
+swe_agent,swe-agent-llama-70b,pimutils__todoman-299,swe_agent-284,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pimutils__todoman-299,swe_agent-284,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,projectmesa__mesa-1001,swe_agent-285,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,projectmesa__mesa-1001,swe_agent-285,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1181,swe_agent-286,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-1181,swe_agent-286,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-763,swe_agent-287,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pvlib__pvlib-python-763,swe_agent-287,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pycontribs__jenkinsapi-594,swe_agent-288,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pycontribs__jenkinsapi-594,swe_agent-288,own reproduction,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4225,swe_agent-289,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-4225,swe_agent-289,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-958,swe_agent-290,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-958,swe_agent-290,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-980,swe_agent-291,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,pydantic__pydantic-980,swe_agent-291,own reproduction,accept,fail
+swe_agent,swe-agent-llama-70b,python-lsp__python-lsp-server-454,swe_agent-292,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,python-lsp__python-lsp-server-454,swe_agent-292,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,python-lsp__python-lsp-server-454,swe_agent-293,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,python-lsp__python-lsp-server-454,swe_agent-293,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,ros-tooling__cross_compile-216,swe_agent-294,self-claim,reject,fail
+swe_agent,swe-agent-llama-70b,ros-tooling__cross_compile-216,swe_agent-294,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,rust-lang__homu-100,swe_agent-295,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,rust-lang__homu-100,swe_agent-295,own reproduction,undefined,fail
+swe_agent,swe-agent-llama-70b,BurnzZ__scrapy-loader-upkeep-3,swe_agent-296,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,BurnzZ__scrapy-loader-upkeep-3,swe_agent-296,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,CODAIT__exchange-metadata-converter-38,swe_agent-297,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,CODAIT__exchange-metadata-converter-38,swe_agent-297,own reproduction,undefined,pass
+swe_agent,swe-agent-llama-70b,DataBiosphere__toil-4809,swe_agent-298,self-claim,accept,pass
+swe_agent,swe-agent-llama-70b,DataBiosphere__toil-4809,swe_agent-298,own reproduction,accept,pass
+swe_agent,swe-agent-llama-70b,cogeotiff__rio-tiler-mosaic-5,swe_agent-299,self-claim,accept,fail
+swe_agent,swe-agent-llama-70b,cogeotiff__rio-tiler-mosaic-5,swe_agent-299,own reproduction,undefined,fail

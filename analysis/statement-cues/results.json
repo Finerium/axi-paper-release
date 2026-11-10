@@ -1,0 +1,22 @@
+{
+ "id": "statement-cues-02",
+ "exploratory": true,
+ "dev": {
+  "n": 71,
+  "statement_names_a_changed_file": 7,
+  "statement_names_a_touched_function_or_class": 11,
+  "statement_import_path_resolves_to_a_changed_module": 4,
+  "statement_names_only_the_top_level_package_of_a_changed_file": 5,
+  "excluded_no_source_file": 0
+ },
+ "fresh": {
+  "n": 62,
+  "statement_names_a_changed_file": 0,
+  "statement_names_a_touched_function_or_class": 32,
+  "statement_import_path_resolves_to_a_changed_module": 26,
+  "statement_names_only_the_top_level_package_of_a_changed_file": 31,
+  "excluded_no_source_file": 0
+ },
+ "dev_tasks_read": 71,
+ "fresh_tasks_read": 62
+}
